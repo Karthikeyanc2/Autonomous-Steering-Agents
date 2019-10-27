@@ -7,3 +7,7 @@ http://gameai.com/wiki/index.php?title=Steering_behaviors#Seeking
 follow the link to learn more on steering behaviours
 
 Just run Autonomous_steering_agents.py to enjoy the visualization...
+
+Watch the Video here
+
+https://youtu.be/og8r9tJm4NE
